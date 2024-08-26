@@ -1,4 +1,6 @@
-<h2 align="left">Olá! Meu nome é Nelson Hodinei Lisenfeld Lopes, sou Instrutor de Informática e gosto muito de estudar novas tecnologias</h2>
+<h2 align="left">Olá! Meu nome é Nelson Hodinei Lisenfeld Lopes!
+  <br>Seja muito bem vindo(a) ao meu perfil do Github<br>
+  sou Instrutor de Informática e gosto muito de estudar novas tecnologias</h2>
 
 ###
 
