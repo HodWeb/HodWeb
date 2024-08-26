@@ -6,7 +6,7 @@
 ###
 
 <p align="left">Sobre mim:<br><br>
-  - Formado em Licenciatura Pedagógica em Informática na @UNIASSELVI<br>
+  - Formado em Licenciatura Pedagógica em Informática pela @UNIASSELVI<br>
   - Estudante da Linguagem de Programação Python em @Empowerpython</p>
 
 ###
