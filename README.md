@@ -1,10 +1,13 @@
 <h2 align="left">Olá! Meu nome é Nelson Hodinei Lisenfeld Lopes!
-  <br>Seja muito bem vindo(a) ao meu perfil do Github<br>
-  sou Instrutor de Informática e gosto muito de estudar novas tecnologias</h2>
+  <br>Seja muito bem vindo(a) ao meu perfil do Github</h2>
+  <br>
+<h3>Sou Instrutor de Informática e gosto muito de estudar novas tecnologias</h3>
 
 ###
 
-<p align="left">Sobre mim:<br><br>- Formado em Licenciatura Pedagógica em Informática na @UNIASSELVI<br>- Estudante da Linguagem de Programação Python em @Empowerpython</p>
+<p align="left">Sobre mim:<br><br>
+  - Formado em Licenciatura Pedagógica em Informática na @UNIASSELVI<br>
+  - Estudante da Linguagem de Programação Python em @Empowerpython</p>
 
 ###
 
