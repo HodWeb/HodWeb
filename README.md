@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HodWeb/HodWeb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HodWeb/HodWeb/main/snake.svg" alt="Snake animation" />
 
 ###
