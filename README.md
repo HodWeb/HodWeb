@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim<br><br>- Formado em Licenciatura Pedagógica em Informática<br><br>- Estudante da Linguagem de Programação Python em @Empowerpython</p>
+<p align="left">Sobre mim<br>- Formado em Licenciatura Pedagógica em Informática<br>- Estudante da Linguagem de Programação Python em @Empowerpython</p>
 
 ###
 
